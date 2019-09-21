@@ -1,0 +1,25 @@
+
+
+.second {
+    color: green;
+}
+body {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./static/landscape.jpg");
+    background-size: cover;
+    font-family: 'Raleway', sans-serif;
+}
+
+.center {
+    position: absolute;
+    top: 25%;
+    left:  25%;
+    padding: 10px;
+}
+
+.summary{
+    width: 650px;
+}
+
+.Name, .titles, .summary {
+    color: white;
+}
